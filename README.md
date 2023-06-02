@@ -3,6 +3,20 @@ airtraffic
 
 Predict Air Traffic by routes
 
+## Usage
+
+To get the air traffic forecast by route, it is necessary to select on the streamlit application the following filters:
+* Home airtport = departure airport
+* Paired airport = arrival airport
+* Forecast start date 
+* Model selection = select the desired model to be fitted in the forecast
+* Days of forecast = total period of the forecast
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
 
 
 
